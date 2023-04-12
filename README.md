@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
-
 <!--
 **themechanic002/themechanic002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
